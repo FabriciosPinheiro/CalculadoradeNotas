@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Chat" src=".github/locadora.png" width="50%">
+  <img alt="projeto Chat" src="https://github.com/user-attachments/assets/1a054c4f-c892-4490-89b7-3a7b4759c9d9" width="50%">
 </p>
 
 ## 🚀 Tecnologias
